@@ -10,6 +10,6 @@ CREATE TABLE Usuarios (
     PRIMARY KEY (id)
 );
 
-INSERT INTO Usuarios (nombre, correo) VALUES ('Alonso Sagrero', 'correo@correo.com'); # La fecha se agrega automaticamente
+INSERT INTO Usuarios (nombre, correo) VALUES ('Alonso Sagrero', 'correo@correo.com'); # La fecha se agrega automaticamente 
 INSERT INTO Usuarios (nombre, correo) VALUES ('Juan perez', 'correo@aragon.unam.mx');
 INSERT INTO Usuarios (nombre, correo) VALUES ('Issac Newton', 'correo@unam.com');
