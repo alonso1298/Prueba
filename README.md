@@ -55,11 +55,17 @@ Usuario: Alonso
     ```bash 
     libros/models
     libros/admin
-2. **Ingresa al ordenar para ver el ejercico de Python**
+2. **Ingresa a ordenar para ver el ejercico de Python**
     - Ejecuta el proytecto
     ```bash 
     ordenar.py
-3. **Ingresa al consultaSQL para ver el ejercico de MySQL**
+3. **Ingresa a contadorPalabras para ver el ejercico de Python**
+    - Ejecuta el proytecto
+    ```bash 
+    contadorPalabras.py
+    ```
+    - Ingresar en el imput Texto.txt
+4. **Ingresa a consultaSQL para ver el ejercico de MySQL**
     ```bash
     consultaSQL
 ## Contribuciones
